@@ -36,7 +36,7 @@ In this react project, Context API was used to manage the states, enabling the c
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./animation-pixel-art.gif)
 
 
 ## Feedback
