@@ -8,7 +8,14 @@ In this project, an art editor with pixels has been implemented in which the use
 Cloning the repository
 
 ```bash
+  git clone git@github.com:Lerpardo/pixel-art.git
   cd pixel-art
+```
+
+Installing the dependencies
+
+```bash
+  npm install
 ```
     
 ## Deployment
