@@ -3,6 +3,8 @@
 
 In this project, an art editor with pixels has been implemented in which the user can choose a color in a color palette and can paint whatever he wants on a whiteboard 🎨 🧑 🎨
 
+![App Screenshot](./animation-pixel-art.gif)
+
 ## Installation
 
 Cloning the repository
@@ -39,11 +41,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Lessons Learned
 
 In this react project, Context API was used to manage the states, enabling the components to communicate. The Context was chosen because it is native to React. It was quite challenging to manipulate classes in tags with reactjs.
-
-## Screenshots
-
-![App Screenshot](./animation-pixel-art.gif)
-
 
 ## Feedback
 
