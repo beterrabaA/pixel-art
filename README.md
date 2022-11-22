@@ -5,11 +5,10 @@ In this project, an art editor with pixels has been implemented in which the use
 
 ## Installation
 
-Install my-project with npm
+Cloning the repository
 
 ```bash
   cd pixel-art
-  npm install
 ```
     
 ## Deployment
